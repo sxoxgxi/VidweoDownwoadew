@@ -66,7 +66,7 @@
             font-size: 1.2em;
             font-weight: bold;
             font-align: center;
-            color: #fff;
+            color: #000
             background: #ff9000;
             cursor: pointer;
         `;
